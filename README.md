@@ -22,7 +22,7 @@ This project is a simple website built with HTML, CSS, and JavaScript that allow
 ## Installation
 To install and run the game on your local machine, follow these steps:
 
-1. Clone the repository to your local machine using the command git clone [Here](https://github.com/RobertasKirkickas/Hangman-game.git)
+1. Clone the repository to your local machine using the command git clone [https://github.com/RobertasKirkickas/Hangman-game.git](https://github.com/RobertasKirkickas/Hangman-game.git)
 2. Navigate to the project directory using the command cd hangman-game
 3. Install the required dependencies by running the command npm install
 4. Start the game by running the command npm start
