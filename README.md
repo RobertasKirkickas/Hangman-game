@@ -2,7 +2,8 @@
 
 Hangman is a classic word guessing game where the player must guess a randomly generated word before running out of guesses.
 
-## ![g1](image)
+## ![hangman](https://user-images.githubusercontent.com/121698117/213841221-64abcbfd-fa96-4807-8747-983bfc7b3b17.png)
+
 
 Contents
 - [About the Project](#about-the-project)
@@ -39,7 +40,7 @@ To install and run the game on your local machine, follow these steps:
 - React
 - Bootstrap
 - Sass
-- AOS
+- [AOS](https://github.com/michalsnik/aos#animations)
 
 ## Credits
 [Robertas Kirkickas](https://github.com/RobertasKirkickas)
