@@ -5,7 +5,7 @@ $help-popout: rgb(27, 207, 162);
 html {
 background-color: $background-color;
 font-family: 'Roboto', sans-serif;
-position: relative;
+position: fixed;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
@@ -129,4 +129,8 @@ display: block;
     cursor: pointer;
   }
 
- 
+  @media (max-width: 700px) {
+    .header-title {
+      font-size: 50px; /* Reduce font size for smaller screens */
+    }
+  }
