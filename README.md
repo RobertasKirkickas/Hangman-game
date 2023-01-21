@@ -1,8 +1,12 @@
 # Hangman Game
 
+[Live Game](https://robertas-kirkickas-hangman-game.netlify.app/)
+
 Hangman is a classic word guessing game where the player must guess a randomly generated word before running out of guesses.
 
-## ![g1](image)
+## ![hangman](https://user-images.githubusercontent.com/121698117/213841310-f8f06ef7-a779-433e-84cd-95f8efb7007b.png)
+
+
 
 Contents
 - [About the Project](#about-the-project)
@@ -20,7 +24,7 @@ This project is a simple website built with HTML, CSS, and JavaScript that allow
 ## Installation
 To install and run the game on your local machine, follow these steps:
 
-1. Clone the repository to your local machine using the command git clone [Here](https://github.com/RobertasKirkickas/Hangman-game.git)
+1. Clone the repository to your local machine using the command git clone [https://github.com/RobertasKirkickas/Hangman-game.git](https://github.com/RobertasKirkickas/Hangman-game.git)
 2. Navigate to the project directory using the command cd hangman-game
 3. Install the required dependencies by running the command npm install
 4. Start the game by running the command npm start
@@ -39,7 +43,7 @@ To install and run the game on your local machine, follow these steps:
 - React
 - Bootstrap
 - Sass
-- AOS
+- [AOS](https://github.com/michalsnik/aos#animations)
 
 ## Credits
 [Robertas Kirkickas](https://github.com/RobertasKirkickas)
