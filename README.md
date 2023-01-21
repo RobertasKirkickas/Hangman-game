@@ -2,7 +2,8 @@
 
 Hangman is a classic word guessing game where the player must guess a randomly generated word before running out of guesses.
 
-## ![hangman](https://user-images.githubusercontent.com/121698117/213841221-64abcbfd-fa96-4807-8747-983bfc7b3b17.png)
+## ![hangman](https://user-images.githubusercontent.com/121698117/213841310-f8f06ef7-a779-433e-84cd-95f8efb7007b.png)
+
 
 
 Contents
