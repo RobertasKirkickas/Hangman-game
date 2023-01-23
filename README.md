@@ -9,17 +9,9 @@ Hangman is a classic word guessing game where the player must guess a randomly g
 
 
 Contents
-- [About the Project](#about-the-project)
 - [Installation](#installation)
 - [Game Rules](#game-rules)
 - [Credits](#credits)
-
-## About the Project
-This project is a simple website built with HTML, CSS, and JavaScript that allows users to:
-- Learn about new games
-- Download high-quality wallpapers
-- Save items for later
-- Contact the authors of the website
 
 ## Installation
 To install and run the game on your local machine, follow these steps:
