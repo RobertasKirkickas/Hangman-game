@@ -14,7 +14,8 @@ function App() {
   
   return (
     <div className="App" data-aos="fade-out">
-              <img src={bnr} alt='Hangman' />
+
+              <div id="bnrMain"> <img src={bnr} alt='Hangman' /> </div>
               <br />
       < Hangman />
       <br />
